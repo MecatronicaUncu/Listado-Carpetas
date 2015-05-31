@@ -7,14 +7,14 @@ Listado con nombres y e-mails de integrantes con carpetas de materias para prest
 | .   | Álgebra                      |             |                              |          |
 | .   | Geometría Analítica          |             |                              |          |
 | .   | Dibujo                       |             |                              |          |
-| .   | Física I                     |             |                              |          |
+| .   | Física I                     |Emiliano Lop | emilopez13@gmail.com         |          |
 | .   | Química General              |             |                              |          |
-| 2   | Análisis Matemático II       |             |                              |          |
+| 2   | Análisis Matemático II       |Emiliano Lop | emilopez13@gmail.com         |          |
 | .   | Física II                    |             |                              |          |
 | .   | Cálculo                      |             |                              |          |
 | .   | Inglés Técnico I             |             |                              |          |
 | .   | Estadística                  |             |                              |          |
-| .   | Matemática Avanzada          |             |                              |          |
+| .   | Matemática Avanzada          |Emiliano Lop |emilopez13@gmail.com          |          |
 | .   | Electrotecnia                |             |                              |          |
 | .   | Termodinámica                |             |                              |          |
 | 3   | Ciencia de los Materiales    |             |                              |          |
