@@ -22,10 +22,10 @@ Listado con nombres y e-mails de integrantes con carpetas de materias para prest
 | .   | Estática                     |             |                              |          |
 | .   | Sistemas de Automatización   |             |                              |          |
 | .   | Inglés Técnico II            |             |                              |          |
-| .   | Electrónica                  |             |                              |          |
+| .   | Electrónica                  |Emiliano Lop |  emilopez13@gmail.com        |          |
 | .   | Informática                  |             |                              |          |
-| .   | Mecánica Aplicada            |             |                              |          |
-| .   | Mecánica de fluidos          |             |                              |          |
+| .   | Mecánica Aplicada            |Emiliano Lop | emilopez13@gmail.com         |          |
+| .   | Mecánica de fluidos          |Emiliano Lop |  emilopez13@gmail.com        |          |
 | 4   | Materiales                   |             |                              |          |
 | .   | Tecnología industrial        |             |                              |          |
 | .   | Microcontroladores           |             |                              |          |
